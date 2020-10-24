@@ -7,7 +7,7 @@ SIR WILLIAM G. ARMSTRONG, C.B., LL.D., F.R.S., &c.
 
 
 
-Gentlemen of the British Association, — I esteem it the greatest honour of
+Gentlemen of the British Association, - I esteem it the greatest honour of
 my life that I am called upon to assume the office of your President. In that
 capacity, and as representing your body, I may be allowed to advert to the
 gratifying reception which the British Association met with on their former
@@ -165,7 +165,7 @@ arrive at an estimate of the total quantity comprised in our coal-bearing
 strata. Assuming 4000 feet as the greatest depth at which it will ever be
 possible to carry on mining operations, and rejecting all seams of less than
 2 feet in thickness, the entire quantity of available coal existing in these
-Islands has beea calculated to amount to about 80,000 millions of tons,
+Islands has been calculated to amount to about 80,000 millions of tons,
 which, at the present rate of consumption, would be exhausted in 930 years,
 but, with a continued yearly increase of 2 3/4 [2.75] millions of tons, would only
 last 212 years. It is clear that long before complete exhaustion takes place,
@@ -302,7 +302,7 @@ Some remedy for this state of things, we may hope, is at hand, in the gas
 regenerative furnaces recently introduced by Mr. Siemens. In these furnaces
 the rejected heat is arrested by a so-called ``regenerator,'' as in Stirling's
 air-engine, and is communicated to the new fuel before it enters the furnace.
-The fuel, however, is not solid coal, biit gas previously evolved from coal. A
+The fuel, however, is not solid coal, but gas previously evolved from coal. A
 stream of this gas raised to a high temperature by the rejected heat of combustion
 is admitted into the furnace, and there meets a stream of atmospheric
 air also raised to a high temperature by the same agency. In the combination
@@ -358,7 +358,7 @@ may not be deemed unworthy of the notice of some of those whom I have
 the honour of addressing.
 
 The introduction of the Davy lamp was a great event in the history of
-coal-mining, not as effectiug any great diminution of those disastrous accidents
+coal-mining, not as effecting any great diminution of those disastrous accidents
 which still devastate every colliery district, but as a means of enabling
 mines to be worked which, from their greater explosive tendencies, would
 otherwise have been deemed inaccessible. Thus, while the Davy lamp has
@@ -452,7 +452,7 @@ aggregation of apparently solid forms, shaped like willow-leaves or some well-kn
 forms of Diatomaceae, and interlacing one another in every direction.
 The forms are so regular in size and shape, as to have led to a suggestion
 from one of our profoundest philosophers of their being organisms, possibly
-even partaking of the nature of Ufe, but at all events closely connected
+even partaking of the nature of life, but at all events closely connected
 with the heating and vivifying influences of the sun. These mysterious
 objects, which, since Mr. Nasmyth discovered them, have been seen by other
 observers as well, are computed to be each not less than 1000 miles in length
@@ -563,7 +563,7 @@ principles of the age by carrying on scientific experiments to arrive at knowled
 which, in the arts of war as well as in those of peace, is proverbially
 recognized as the true source of human power.
 
-Professor Tyndall's recent discoveries respecting the absoqition and radiation
+Professor Tyndall's recent discoveries respecting the absorption and radiation
 of heat by vapours and permanent gases constitute important additions
 to our knowledge. The extreme delicacy of his experiments and the remarkable
 distinctness of their results render them beautiful examples of physical
@@ -630,7 +630,7 @@ of writing by the recognition of a few simple signs to express the syllables
 which are of most frequent occurrence in our language. Our words are in a
 great measure made up of such syllables as com, con, tion, ing, able, ain, ent,
 est, ance, &c. These we are now obliged to write out over and over again, as
-if time and labor expended in what may be termed visual speech were of no
+if time and labour expended in what may be termed visual speech were of no
 importance. Neither has our written character the advantage of distinctness
 to recommend it: it is only necessary to write such a word as ``minimum''
 or ``ammunition'' to become aware of the want of sufficient difference between
@@ -647,7 +647,7 @@ division, there can, at all events, be none as to the importance of assimilating
 the systems of measurement in different countries. Science suffers by the
 want of uniformity, because valuable observations made in one country are in
 a great measure lost to another from the labour required to convert a series
-of quantities into new denomiuations. International commerce is also impeded
+of quantities into new denominations. International commerce is also impeded
 by the same cause, which is productive of constant inconvenience and
 frequent mistake. It is much to be regretted that two standards of measure
 so nearly alike as the English yard and the French metre should not be made
@@ -709,14 +709,14 @@ great vigour by the supporters and opponents of the theory. Where good
 reasons can be shown on both sides of a question, the truth is generally to be
 found between the two extremes. In the present instance we may without
 difficulty suppose it to have been part of the great scheme of creation that
-natiural selection should be permitted to determine variations amounting even
+natural selection should be permitted to determine variations amounting even
 to specific differences where those differences were matters of degree; but
 when natural selection is adduced as a cause adequate to explain the production
 of a new organ not provided for in original creation, the hypothesis must
 appear, to common apprehensions, to be pushed beyond the limits of reasonable
 conjecture. The Darwinian theory, when fully enunciated, founds the pedigree
 of living nature upon the most elementary form of vitalized matter. One
-step further would carry us back, vdthout greater violence to probability, to inorganic
+step further would carry us back, without greater violence to probability, to inorganic
 rudiments, and then we should be called upon to recognise in ourselves,
 and in the exquisite elaborations of the animal and vegetable kingdoms, the
 ultimate results of mere material forces left free to follow their own unguided
