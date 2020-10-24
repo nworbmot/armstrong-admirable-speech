@@ -10,7 +10,7 @@ The speech was given on to the 33rd meeting of the [British Association for the 
 
 A scan of the original text of the speech from the Report of the 33rd Meeting of the British Association for the Advancement of Science, held at Newcastle-upon-Tyne, pages li-lxiv, is available on the [internet archive](https://archive.org/details/reportofbritisha64brit/page/n53/mode/2up).
 
-[14-page PDF of the scan](armstrong-speech-1863.pdf).
+[14-page PDF of the scan](https://nworbmot.org/armstrong-speech-1863.pdf).
 
 The internet archive provides a text parsed from the scan using Optical Character Recognition (OCR). This is the file `armstrong-speech-1863.txt`.
 
