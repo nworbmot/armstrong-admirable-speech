@@ -1,1579 +1,743 @@
 
 ADDRESS
 
-
-
 BY
-
-
 
 SIR WILLIAM G. ARMSTRONG, C.B., LL.D., F.R.S., &c.
 
 
 
 Gentlemen of the British Association, — I esteem it the greatest honour of
-
- ray life that I am called upon to assume the office of your President. In that
-
- capacity, and as representing your body, I may be allowed to advert to the
-
- gratifying reception which the British Association met with on their former
-
- visit to this region of mining and manufacturing industry, and, as a member
-
- of the community which you have again honoured with a visit, I undertake to
-
- convey to you the assurance of a renewed and hearty welcome. A quarter of
-
- a century has elapsed since the Association assembled in this town, and in no
-
- former period of equal duration has so great a progress been made in physical
-
- Icnowledge. In mechanical science, and especially in those branches of it
-
- which are concerned in the application of steam power to effect interchange
-
- between distant communities, the progress made since 1838 has no parallel
-
- in history. The railway system was then in its infancy, and the great
-
- problem of transatlantic steam na\-igation had only received its complete
-
- solution in the preceding year. Since that time railways have extended to
-
- cveiy continent, and steamships have covered the ocean. These reflections
-
- claim our attention on this occasion, because the locality in which we hold
-
- our present meeting is the birthplace of railways, and because the coal-mines
-
- of this district have contributed more largely than any others to supply the
-
- motive power by which steam communication by land and water has been
-
- established on so gigantic a scale.
-
-
-
-The histoiy of railways shows what grand results may have their origin in
-
- small beginnings. When coal was first conveyed in this neighbourhood from
-
- the pit to the shipping-place on the Tyne, the pack-horse, carrying a burden
-
- of 3 cwt., was the only mode of transport employed. As soon as roads
-
- suitable for wheeled carriages were formed, carts were introduced, and this
-
- first step in mechanical appliance to facilitate transport had the effect of
-
- increasing the load which the horse was enabled to convey from 3 cwt. to
-
- 1 7 cwt. The next improvement consisted in laying wooden bars or rails for
-
- the wheels of the carts to run upon, and this was followed by the substitution
-
- of the four-wheeled wagon for the two-wheeled cart. By this fiu'ther appli-
-
- cation of mechanical principles the original horseload of 3 cwt. was aug-
-
- mented to 42 cwt. These were important results, and they were not obtained
-
- ■without the shipwreck of the fortunes of at least one adventurous man whose
-
- ideas were in advance of the times in which he lived. We read, in a record
-
- published in the year 1649, that " one Master Beaumont, a gentleman of
-
- great ingenuity and rare parts, adventured into the mines of Northumberland
-
- with his .£30,000, and brought with him many rare engines not then known
-
- in that shire, and wagons with one horse to carry down coal from the pits to
-
- the river, but within a few years he consumed all his money and rode home
-
- upon his light horse." The next step in the progress of railways was the
-
- attachment of slips of iron to the wooden rails. Then came the iron tram-
-
-
-
-d2
-
-
-
-
-Hi REPORT — 1863.
-
-
-
-way, consisting of cast-iron bars of an angular section : in this arrange-
-
- ment the upright flange of the bar acted as a guide to keep the wheel on the
-
- track. The next advance was an important one, and consisted in transferring
-
- the guiding flange from the rail to the wheel : this improvement enabled
-
- cast-iron edge rails to be used. Finally, in 1820, after the lapse of about
-
- 200 years from the first employment of wooden bars, wi'ought-iron rails, rolled
-
- in long lengths, and of suitable section, were made in this neighbourhood,
-
- and eventually superseded all other forms of railway. Thus, the railway
-
- system, like all large inventions, has risen to its present importance by a
-
- series of steps ; and so gradual has been its progress, that Europe finds itself
-
- committed to a gauge fortuitously determined by the distance between the
-
- wheels of the carts for which Avooden rails were originally laid down.
-
-
-
-Last of all came the locomotive engine, that crowiiing achievement of me-
-
- chanical science, which enables us to convej^ a load of 200 tons at a cost of fuel
-
- scarcely exceeding that of the corn and hay which the original pack-horse
-
- consumed in conveying its load of 3 cwt. an equal distance.
-
-
+my life that I am called upon to assume the office of your President. In that
+capacity, and as representing your body, I may be allowed to advert to the
+gratifying reception which the British Association met with on their former
+visit to this region of mining and manufacturing industry, and, as a member
+of the community which you have again honoured with a visit, I undertake to
+convey to you the assurance of a renewed and hearty welcome. A quarter of
+a century has elapsed since the Association assembled in this town, and in no
+former period of equal duration has so great a progress been made in physical
+knowledge. In mechanical science, and especially in those branches of it
+which are concerned in the application of steam power to effect interchange
+between distant communities, the progress made since 1838 has no parallel
+in history. The railway system was then in its infancy, and the great
+problem of transatlantic steam navigation had only received its complete
+solution in the preceding year. Since that time railways have extended to
+every continent, and steamships have covered the ocean. These reflections
+claim our attention on this occasion, because the locality in which we hold
+our present meeting is the birthplace of railways, and because the coal-mines
+of this district have contributed more largely than any others to supply the
+motive power by which steam communication by land and water has been
+established on so gigantic a scale.
+
+
+The history of railways shows what grand results may have their origin in
+small beginnings. When coal was first conveyed in this neighbourhood from
+the pit to the shipping-place on the Tyne, the pack-horse, carrying a burden
+of 3 cwt. [cwt = (long or imperial) hundredweight = 112 lb = 50.80 kg], was the only mode of transport employed. As soon as roads
+suitable for wheeled carriages were formed, carts were introduced, and this
+first step in mechanical appliance to facilitate transport had the effect of
+increasing the load which the horse was enabled to convey from 3 cwt. to
+17 cwt. The next improvement consisted in laying wooden bars or rails for
+the wheels of the carts to run upon, and this was followed by the substitution
+of the four-wheeled wagon for the two-wheeled cart. By this further application
+of mechanical principles the original horseload of 3 cwt. was augmented
+to 42 cwt. These were important results, and they were not obtained
+without the shipwreck of the fortunes of at least one adventurous man whose
+ideas were in advance of the times in which he lived. We read, in a record
+published in the year 1649, that ``one Master Beaumont, a gentleman of
+great ingenuity and rare parts, adventured into the mines of Northumberland
+with his £30,000, and brought with him many rare engines not then known
+in that shire, and wagons with one horse to carry down coal from the pits to
+the river, but within a few years he consumed all his money and rode home
+upon his light horse.'' The next step in the progress of railways was the
+attachment of slips of iron to the wooden rails. Then came the iron tramway,
+consisting of cast-iron bars of an angular section: in this arrangement
+the upright flange of the bar acted as a guide to keep the wheel on the
+track. The next advance was an important one, and consisted in transferring
+the guiding flange from the rail to the wheel: this improvement enabled
+cast-iron edge rails to be used. Finally, in 1820, after the lapse of about
+200 years from the first employment of wooden bars, wrought-iron rails, rolled
+in long lengths, and of suitable section, were made in this neighbourhood,
+and eventually superseded all other forms of railway. Thus, the railway
+system, like all large inventions, has risen to its present importance by a
+series of steps; and so gradual has been its progress, that Europe finds itself
+committed to a gauge fortuitously determined by the distance between the
+wheels of the carts for which wooden rails were originally laid down.
+
+Last of all came the locomotive engine, that crowning achievement of mechanical
+science, which enables us to convey a load of 200 tons at a cost of fuel
+scarcely exceeding that of the corn and hay which the original pack-horse
+consumed in conveying its load of 3 cwt. an equal distance.
 
 It was chiefly in this locality that the railway system was thus reared
-
- from earliest infancy to full maturity, and amongst the many names associated
-
- with its growth, that of George Stephenson stands preeminent.
-
-
+from earliest infancy to full maturity, and amongst the many names associated
+with its growth, that of George Stephenson stands preeminent.
 
 In thus glancing at the history of railways, we may observe how promptly
-
- the inventive faculty of man supplies the device which the circumstances of
-
- the moment require. No sooner is a road formed fit for wheeled carriages to
-
- pass along, than the cart takes the place of the pack-saddle : no sooner is
-
- the wooden railway provided tlian the wagon is substituted for the cart : and
-
- no sooner is an iron railway formed, capable of carrying heavy loads, than
-
- the locomotive engine is found ready to commence its career. As in the
-
- vegetable kingdom fit conditions of soil and climate quickly cause the appear-
-
- ance of suitable plants, so in the intellectual world fitness of time and circum-
-
- stance promptly calls forth appropriate devices. The seeds of invention exist,
-
- as it were, in the air, ready to germinate whenever suitable conditions arise,
-
- and no legislative interference is needed to ensure their growth in proper
-
- season.
-
-
+the inventive faculty of man supplies the device which the circumstances of
+the moment require. No sooner is a road formed fit for wheeled carriages to
+pass along, than the cart takes the place of the pack-saddle: no sooner is
+the wooden railway provided than the wagon is substituted for the cart: and
+no sooner is an iron railway formed, capable of carrying heavy loads, than
+the locomotive engine is found ready to commence its career. As in the
+vegetable kingdom fit conditions of soil and climate quickly cause the appearance
+of suitable plants, so in the intellectual world fitness of time and circumstance
+promptly calls forth appropriate devices. The seeds of invention exist,
+as it were, in the air, ready to germinate whenever suitable conditions arise,
+and no legislative interference is needed to ensure their growth in proper
+season.
 
 The coal-fields of this district, so intimately connected with the railway
-
- system, both in its origin and maintenance, will doubtless receive much at-
-
- tention from the Association at their present meeting.
-
-
+system, both in its origin and maintenance, will doubtless receive much attention
+from the Association at their present meeting.
 
 To persons who contend that all geological phenomena may be attributed
-
- to causes identical in nature and degree with those now in operation, the
-
- formation of coal must present peculiar difficulty. The rankness of vegeta-
-
- tion which must have existed in the carboniferous era, and the uniformity of
-
- climate which appears to have prevailed almost from the Poles to the Equator,
-
- woiild seem to implj- a higher temperature of the earth's crust, and an atmo-
-
- sphere more laden with humidity and carbonic acid than exist in our
-
- day. But whatever may have been the geological conditions aifecting the
-
- origin of coal, we may regard the deposits of that mineral as vast magazines
-
- of power stored up at periods immeasurably distant for our use.
-
-
+to causes identical in nature and degree with those now in operation, the
+formation of coal must present peculiar difficulty. The rankness of vegetation
+which must have existed in the carboniferous era, and the uniformity of
+climate which appears to have prevailed almost from the Poles to the Equator,
+would seem to imply a higher temperature of the earth's crust, and an atmosphere
+more laden with humidity and carbonic acid than exist in our
+day. But whatever may have been the geological conditions affecting the
+origin of coal, we may regard the deposits of that mineral as vast magazines
+of power stored up at periods immeasurably distant for our use.
 
 The principle of conservation of force and the relationship now established
-
- between heat and motion, enable us to trace back the effects which we now
-
- derive from coal to equivalent agencies exercised at the periods of its forma-
-
- tion. The philosophical mind of George Stephenson, unaided by theoretical
-
- knowledge, rightly saw that coal was the embodiment of power originally
-
- derived from the sun. That small j)eucil of solar radiation which is arrested
-
- by our planet, and which constitutes less than the 2000-millionth part of the
-
- total energy sent forth from the sun, must be regarded as the power which
-
-
-
-
-ADDRESS. liii
-
-
-
-enabled the plants of the carboniferous period to -svrest the carbon they re-
-
- quired from the oxygen with which it was combined, and eventually to deposit
-
- it as the soUd material of coal. In our day, the reunion of that carbon with
-
- oxygen restores the energy expended in the former process, and thus we
-
- are enabled to utilize the power originally derived from the luminous centre
-
- of our planetary system.
-
-
+between heat and motion, enable us to trace back the effects which we now
+derive from coal to equivalent agencies exercised at the periods of its formation.
+The philosophical mind of George Stephenson, unaided by theoretical
+knowledge, rightly saw that coal was the embodiment of power originally
+derived from the sun. That small pencil of solar radiation which is arrested
+by our planet, and which constitutes less than the 2000-millionth part of the
+total energy sent forth from the sun, must be regarded as the power which
+enabled the plants of the carboniferous period to wrest the carbon they required
+from the oxygen with which it was combined, and eventually to deposit
+it as the solid material of coal. In our day, the reunion of that carbon with
+oxygen restores the energy expended in the former process, and thus we
+are enabled to utilize the power originally derived from the luminous centre
+of our planetary system.
 
 But the agency of the sun in originating coal does not stop at this point.
+In every period of geological history the waters of the ocean have been lifted
+by the action of the sun and precipitated in rain upon the earth. This has
+given rise to all those sedimentary actions by which mineral substances have
+been collected at particular localities, and there deposited in a stratified form
+with a protecting cover to preserve them for future use. The phase of the
+earth's existence suitable for the extensive formation of coal appears to have
+passed away for ever; but the quantity of that invaluable mineral which has
+been stored up throughout the globe for our benefit is sufficient (if used
+discreetly) to serve the purposes of the human race for many thousands of
+years. In fact, the entire quantity of coal may be considered as practically
+inexhaustible. Turning, however, to our own particular country, and contemplating
+the rate at which we are expending those seams of coal which
+yield the best quality of fuel, and can be worked at the least expense, we
+shall find much cause for anxiety. The greatness of England much depends
+upon the superiority of her coal in cheapness and quality over that of
+other nations; but we have aleady drawn from our choicest mines a far
+larger quantity of coal than has been raised in all other parts of the world
+put together, and the time is not remote when we shall have to encounter
+the disadvantages of increased cost of working and diminished value of
+produce.
 
- In every ^period of geological history the waters of the ocean have been lifted
-
- by the action of the sun and precipitated in rain iipon the earth. This has
-
- given rise to all those sedimentary actions by which mineral substances have
-
- been coUeeted at particular locahties, and there deposited in a stratified form
-
- with a protecting cover to preserve them for future use. The phase of the
-
- earth's existence suitable for the extensive formation of coal ajjpears to have
-
- passed away for ever ; but the quantity of that invaluable mineral which has
-
- been stored up throughout the globe for our benefit is sufficient (if used
-
- discreetly) to serve the purposes of the human race for many thousands of
-
- years. In fact, the entire quantity of coal may be considered as practically
-
- inexhaiistible. Turning, however, to our own particiilar countiy, and con-
-
- templating the rate at which we are expending those seams of coal which
-
- yield the best quality of fuel, and can be worked at the least expense, we
-
- shall find much cause for anxiety. The greatness of England much de-
-
- pends upon the superiority of her coal in cheapness and quality over that of
-
- other nations ; but we have akeady di'awn from our choicest mines a far
-
- larger quantity of coal than has been raised in all other parts of the world
-
- put together, and the time is not remote when we shall have to encoimter
-
- the -disadvantages of increased cost of working and diminished value of
-
- produce.
-
-
-
-Estimates have been made at various periods of the time which would bo
-
- required to produce complete exhaustion of all the accessible coal in the
-
- British Islands. These estimates are extremely discordant ; but the discre-
-
- pancies arise, not from any important disagreement as to the available quan-
-
- tity of coal, but from the enormous difference in the rate of consumption at
-
- the various dates when the estimates were made, and also from the dift'erent
-
- views which have been entertained as to the probable increase of consumption
-
- in future years. The quantity of coal yearly worked from British mines
-
- has been almost trebled during the last twenty years, and has probably in-
-
- creased tenfold since the commencement of the present century ; but as this
-
- increase has taken place pending the introduction of steam navigation and
-
- railway transit, and luider exceptional conditions of manufacturing develop-
-
- ment, it would be too much to assume that it will continue to advance with
-
- equal rapidity. The statistics collected by Mr. Hunt, of the Mining Record
-
- Office, show that at the end of 18G1 the quantity of coal raised in the
-
- United Kingdom had reached the enormous total of 8G millions of tons, and
-
- that the average annual increase of the eight preceding years amoimted to
-
- 2^ millions of tons. Let us inquire, then, what will be the duration of our
-
- coal-fields if this more moderate rate of increase be maintained.
-
-
+Estimates have been made at various periods of the time which would be
+required to produce complete exhaustion of all the accessible coal in the
+British Islands. These estimates are extremely discordant; but the discrepancies
+arise, not from any important disagreement as to the available quantity
+of coal, but from the enormous difference in the rate of consumption at
+the various dates when the estimates were made, and also from the different
+views which have been entertained as to the probable increase of consumption
+in future years. The quantity of coal yearly worked from British mines
+has been almost trebled during the last twenty years, and has probably increased
+tenfold since the commencement of the present century; but as this
+increase has taken place pending the introduction of steam navigation and
+railway transit, and under exceptional conditions of manufacturing development,
+it would be too much to assume that it will continue to advance with
+equal rapidity. The statistics collected by Mr. Hunt, of the Mining Record
+Office, show that at the end of 1861 the quantity of coal raised in the
+United Kingdom had reached the enormous total of 86 millions of tons, and
+that the average annual increase of the eight preceding years amounted to
+2 3/4 [2.75] millions of tons. Let us inquire, then, what will be the duration of our
+coal-fields if this more moderate rate of increase be maintained.
 
 By combining the known thickness of the various workable seams of coal,
-
- and computing the area of the surface under which they lie, it is easy to
-
- arrive at an estimate of the total quantity comprised in our coal-bearing
-
- strata. Assuming 4000 feet as the greatest depth at which it will ever be
-
- possible to carry on mining operations, and rejecting all seams of less than
-
- 2 feet in thickness, the entire quantity of available coal existing in these
-
- Islands has beea calculated to amount to about 80,000 millions of tons.
-
-
-
-
-liV REPORT — 1863.
-
-
-
-which, at the j^resent rate of consumption, would be exhausted in 930 years,
-
- but, with a continued yearly increase of 2| millions of tons, would only
-
- last 212 years. It is clear that long before complete exhaustion takes place,
-
- England will have ceased to be a coal-producing country on an extensive
-
- scale. Other nations, and especially the United States of America, which
-
- possess coal-fields 37 times more extensive than om-s, will then be work-
-
- ing more accessible beds at a smaller cost, and will be able to displace the
-
- English coal from every market. The question is, not how long our coal
-
- will endure before absolute exhaustion is effected, but how long will those
-
- particular coal-seams last which yield coal of a quality and at a price to
-
- enable this country to maintain her present supremacy in manufacturing
-
- industry. So far as this particular district is concerned, it is generally
-
- admitted that 200 years will be sufficient to exhaust the principal seams
-
- eve7i at the present rate of working. If the production should continue
-
- to increase as it is now doing, the dui'ation of those seams will not reach half
-
- that period. How the case may stand in other coal-mining disti'icts I
-
- have not the means of ascertaining ; but as the best and most accessible
-
- coal will always be worked in preference to any other, I fear the same rapid
-
- exhaustion of our most valuable seams is everywhere taking place. Were
-
- we reaping the full advantage of all the coal we bui-nt, no objection could
-
- be made to the largeness of the quantity, but we are using it wastefuUy and
-
- extravagantly in all its applications. It is probable that fuUy one-fourth
-
- of the entire quantity of coal raised from our mines is used in the pro-
-
- duction of heat for motive power ; but, much as we are in the habit of
-
- admiring the powers of the steam-engine, our present knowledge of the
-
- mechanical energy of heat shows that we rcahze in that engine only a small
-
- part of the thermic effect of the fuel. That a poimd of coal should, in our
-
- best engines, produce an effect equal to raising a Aveight of a mUliou pounds
-
- a foot high, is a result which bears the character of the marvellous, and
-
- seems to defy aU further improvement. Yet the investigations of recent
-
- years have demonstrated the fact that the mechanical energy resident in a
-
- pound of coal, and liberated by its combustion, is capable of raising to the
-
- same height 10 times that weight. But although the power of our most
-
- economical steam-engines has reached, or perhaps somewhat exceeded, the
-
- limit of a million pounds raised a foot high per lb. of coal, yet, if we take tlio
-
- average effect obtained from steam-engines of the various constructions now
-
- in use, we shall not be justified in assuming it at more than one-third of
-
- that amount. It follows therefore that the average quantity of coal which
-
- we expend in realizing a given effect by means of the steam-engine is about
-
- 30 times greater than would be requisite with an absolutely perfect heat-
-
- engine.
-
-
+and computing the area of the surface under which they lie, it is easy to
+arrive at an estimate of the total quantity comprised in our coal-bearing
+strata. Assuming 4000 feet as the greatest depth at which it will ever be
+possible to carry on mining operations, and rejecting all seams of less than
+2 feet in thickness, the entire quantity of available coal existing in these
+Islands has beea calculated to amount to about 80,000 millions of tons,
+which, at the present rate of consumption, would be exhausted in 930 years,
+but, with a continued yearly increase of 2 3/4 [2.75] millions of tons, would only
+last 212 years. It is clear that long before complete exhaustion takes place,
+England will have ceased to be a coal-producing country on an extensive
+scale. Other nations, and especially the United States of America, which
+possess coal-fields 37 times more extensive than ours, will then be working
+more accessible beds at a smaller cost, and will be able to displace the
+English coal from every market. The question is, not how long our coal
+will endure before absolute exhaustion is effected, but how long will those
+particular coal-seams last which yield coal of a quality and at a price to
+enable this country to maintain her present supremacy in manufacturing
+industry. So far as this particular district is concerned, it is generally
+admitted that 200 years will be sufficient to exhaust the principal seams
+even at the present rate of working. If the production should continue
+to increase as it is now doing, the duration of those seams will not reach half
+that period. How the case may stand in other coal-mining districts I
+have not the means of ascertaining; but as the best and most accessible
+coal will always be worked in preference to any other, I fear the same rapid
+exhaustion of our most valuable seams is everywhere taking place. Were
+we reaping the full advantage of all the coal we burnt, no objection could
+be made to the largeness of the quantity, but we are using it wastefully and
+extravagantly in all its applications. It is probable that fully one-fourth
+of the entire quantity of coal raised from our mines is used in the production
+of heat for motive power; but, much as we are in the habit of
+admiring the powers of the steam-engine, our present knowledge of the
+mechanical energy of heat shows that we realize in that engine only a small
+part of the thermic effect of the fuel. That a pound of coal should, in our
+best engines, produce an effect equal to raising a weight of a million pounds
+a foot high, is a result which bears the character of the marvellous, and
+seems to defy all further improvement. Yet the investigations of recent
+years have demonstrated the fact that the mechanical energy resident in a
+pound of coal, and liberated by its combustion, is capable of raising to the
+same height 10 times that weight. But although the power of our most
+economical steam-engines has reached, or perhaps somewhat exceeded, the
+limit of a million pounds raised a foot high per lb. of coal, yet, if we take the
+average effect obtained from steam-engines of the various constructions now
+in use, we shall not be justified in assuming it at more than one-third of
+that amount. It follows therefore that the average quantity of coal which
+we expend in realizing a given effect by means of the steam-engine is about
+30 times greater than would be requisite with an absolutely perfect heat-
+engine.
 
 The causes which render the application of heat so uneconomic in the
-
- steam-engine have been brought to light by the discovery of the dynamical
-
- theory of heat ; and it now remains for mechanicians, guided by the light
-
- they have thus received, to devise improved practical methods of converting-
-
- the heat of combustion into available power.
-
-
+steam-engine have been brought to light by the discovery of the dynamical
+theory of heat; and it now remains for mechanicians, guided by the light
+they have thus received, to devise improved practical methods of converting
+the heat of combustion into available power.
 
 Engines in which the motive power is excited by the communication of
-
- heat to fluids already existing in the aeriform condition, as in those of
-
- Stirling, Ericson, and Siemens, promise to afford results greatly superior to
-
- those obtained from the steam-engine. They are aU based upon the principle
-
- of employing fuel to generate sensible heat, to the exclusion of latent heat,
-
- which is only another name for heat which has taken the form of improfitable
-
- motion amongst the particles of the fluid to which it is applied. They also.
-
-
-
-
-ADDRESS. IV
-
-
-
-embrace what is called the regenerative principle — a term which has, with
-
- reason, been objected to, as implying a restoration of expended heat. The
-
- so called " regenerator " is a contrivance for arresting unutilized heat rejected
-
- by the engine, and causing it to operate in aid and consequent reduction of
-
- fuel.
-
-
+heat to fluids already existing in the aeriform condition, as in those of
+Stirling, Ericson, and Siemens, promise to afford results greatly superior to
+those obtained from the steam-engine. They are all based upon the principle
+of employing fuel to generate sensible heat, to the exclusion of latent heat,
+which is only another name for heat which has taken the form of improfitable
+motion amongst the particles of the fluid to which it is applied. They also
+embrace what is called the regenerative principle - a term which has, with
+reason, been objected to, as implying a restoration of expended heat. The
+so called ``regenerator'' is a contrivance for arresting unutilized heat rejected
+by the engine, and causing it to operate in aid and consequent reduction of
+fuel.
 
 It is a common observation that before coal is exhausted some other motive
-
- agent will be discovered to take its place, and electricity is generally cited as
-
- the coming power. Electricity, like heat, may be converted into motion, and
-
- both theory and practice have demonstrated that its mechanical application
-
- does not involve so much waste of power as takes place in a steam-engine ; but
-
- whether we use heat or electricity as a motive power, we must equally depend
-
- upon chemical affinity as the source of supply. The act of uniting to form a
-
- chemical product liberates an energy which assumes the form of heat or
-
- electricity, from either of which states it is convertible into mechanical effect.
-
- In contemplating, therefore, the application of electricity as a motive power,
-
- we must bear in mind that we shall stiU reqiiire to effect chemical combina-
-
- tions, and in so doing to consume materials. But where are we to find mate-
-
- rials so economical for this piu'pose as the coal we derive from the earth and
-
- the oxygen we obtain from the air ? The latter costs absolutely nothing ;
-
- and every pound of coal, which in the act of combustion enters into chemical
-
- combination, renders more than two and a half pounds of oxygen available
-
- for power. We cannot look to water as a practicable source of oxygen, for
-
- there it exists in the combined state, requiring expenditure of chemical
-
- energy for its separation from hydrogen. It is in the atmosphere alone that
-
- it can be found in that free state in which we reqiiire it, and there does not
-
- appear to me to be the remotest chance, in an economic point of view, of being
-
- able to dispense with the oxygen of the air as a source either of thermo-
-
- dynamic or electrodynamic effect. But to use this oxygen we must consume
-
- some oxidizable substance, and coal is the cheapest we can procure.
-
-
+agent will be discovered to take its place, and electricity is generally cited as
+the coming power. Electricity, like heat, may be converted into motion, and
+both theory and practice have demonstrated that its mechanical application
+does not involve so much waste of power as takes place in a steam-engine; but
+whether we use heat or electricity as a motive power, we must equally depend
+upon chemical affinity as the source of supply. The act of uniting to form a
+chemical product liberates an energy which assumes the form of heat or
+electricity, from either of which states it is convertible into mechanical effect.
+In contemplating, therefore, the application of electricity as a motive power,
+we must bear in mind that we shall still require to effect chemical combinations,
+and in so doing to consume materials. But where are we to find materials
+so economical for this purpose as the coal we derive from the earth and
+the oxygen we obtain from the air? The latter costs absolutely nothing;
+and every pound of coal, which in the act of combustion enters into chemical
+combination, renders more than two and a half pounds of oxygen available
+for power. We cannot look to water as a practicable source of oxygen, for
+there it exists in the combined state, requiring expenditure of chemical
+energy for its separation from hydrogen. It is in the atmosphere alone that
+it can be found in that free state in which we require it, and there does not
+appear to me to be the remotest chance, in an economic point of view, of being
+able to dispense with the oxygen of the air as a source either of thermodynamic
+or electrodynamic effect. But to use this oxygen we must consume
+some oxidizable substance, and coal is the cheapest we can procure.
 
 There is another source of motive power to which I am induced to refer,
-
- as exhibiting a further instance in which solar influence affords the means
-
- of obtaining mechanical effects from inanimate agents, I aUude to the
-
- power of water deseendiag from heights to which it has been lifted by
-
- the evaporative action of the sun. To illustrate Jhe great advantage of
-
- collecting water for power in elevated situations I may refer to the water-
-
- works of Greenock, where the collecting-reservoirs are situated at an
-
- elevation of 512 feet above the river Clyde. The daily yield of these
-
- reservoirs is said to be nearly 100,000 tons of water, which is derived from
-
- the rainfall on an area of 5000 acres. The power obtainable from this quantity
-
- and head of water is equal to that of a steam-engine of about 2000 horse-
-
- power, and the whole effect might be realized on the margin of the river by
-
- bringing down the water in a pipe of sufficient capacity, and causing it to
-
- act as a column on suitable machinery at the foot of the descent. But the
-
- hydraulic capabilities of the Greenock reservoii'S sink into insignificance when
-
- compared with those of other localities where the naturally collected waters
-
- of large areas of surface descend from great elevations in rapid rivers or ver-
-
- tical falls. Alpine regions abound in falls which, with the aid of artificial
-
- works to impound the surplus water and equalize the supply, would yield
-
- thousands of horse-power ; and there is at least one great river in the world
-
- which in a single plunge developes sufficient power to carry on all the ma-
-
- nufacturing operations of mankind if concentrated in its neighbourhood.
-
- Industrial populations have scarcely yet extended to those regions which
-
- afford this profusion of motive power, but we may anticipate the time
-
-
-
-
-Ivi REPORT— 1863.
-
-
-
+as exhibiting a further instance in which solar influence affords the means
+of obtaining mechanical effects from inanimate agents, I allude to the
+power of water descending from heights to which it has been lifted by
+the evaporative action of the sun. To illustrate the great advantage of
+collecting water for power in elevated situations I may refer to the water-works
+of Greenock, where the collecting-reservoirs are situated at an
+elevation of 512 feet above the river Clyde. The daily yield of these
+reservoirs is said to be nearly 100,000 tons of water, which is derived from
+the rainfall on an area of 5000 acres. The power obtainable from this quantity
+and head of water is equal to that of a steam-engine of about 2000 horse-power,
+and the whole effect might be realized on the margin of the river by
+bringing down the water in a pipe of sufficient capacity, and causing it to
+act as a column on suitable machinery at the foot of the descent. But the
+hydraulic capabilities of the Greenock reservoirs sink into insignificance when
+compared with those of other localities where the naturally collected waters
+of large areas of surface descend from great elevations in rapid rivers or vertical
+falls. Alpine regions abound in falls which, with the aid of artificial
+works to impound the surplus water and equalize the supply, would yield
+thousands of horse-power; and there is at least one great river in the world
+which in a single plunge developes sufficient power to carry on all the manufacturing
+operations of mankind if concentrated in its neighbourhood.
+Industrial populations have scarcely yet extended to those regions which
+afford this profusion of motive power, but we may anticipate the time
 when these natural falls will be brought into useful operation. In that day
+the heat of the sun, by raising the water to heights from which to flow in
+these great rapids and cascades, will become the means of economizing the
+precious stores of motive power, which the solar energy differently directed
+has accumulated at a remote period of geological history, and which when
+once expended may probably never be replaced.
 
- the heat of the sun, by raising the water to heights from which to flow in
-
- these great rapids and cascades, will become tlie means of economizing the
-
- precious stores of motive power, which the solar energy differently directed
-
- has accumulated at a remote period of geological history, and which when
-
- once expended may probably never be replaced.
-
-
-
-I have hitherto spoken of coal onty as a source of mechanical power, but
-
- it is also extensively used for the kindred purpose of relaxing those cohesive
-
- forces which resist our efforts to give new forms and conditions to solid sub-
-
- stances. In these applications, which are geiierally of a metallurgical nature,
-
- the same wasteful expenditure of fuel is everywhere observable. In an ordi-
-
- narj' furnace employed to fuse or soften any solid substance, it is the excess
-
- of the heat of combustion over that of the body heated which alone is ren-
-
- dered available for the purpose intended. The rest of the heat, which in
-
- many instances constitutes by far the greater proportioia of the whole, is
-
- allowed to escape uselessly into the chimney. The combustion also in common
-
- furnaces is so imperfect, that clouds of powdered carbon, in the form of smoke,
-
- envelope our manufacturing towns, and gases, which ought to be comijletcly
-
- oxygenized in the fii'e, pass into the air with two-thirds of their heating
-
- power undeveloped.
-
-
+I have hitherto spoken of coal only as a source of mechanical power, but
+it is also extensively used for the kindred purpose of relaxing those cohesive
+forces which resist our efforts to give new forms and conditions to solid substances.
+In these applications, which are generally of a metallurgical nature,
+the same wasteful expenditure of fuel is everywhere observable. In an ordinary
+furnace employed to fuse or soften any solid substance, it is the excess
+of the heat of combustion over that of the body heated which alone is rendered
+available for the purpose intended. The rest of the heat, which in
+many instances constitutes by far the greater proportion of the whole, is
+allowed to escape uselessly into the chimney. The combustion also in common
+furnaces is so imperfect, that clouds of powdered carbon, in the form of smoke,
+envelope our manufacturing towns, and gases, which ought to be completely
+oxygenized in the fire, pass into the air with two-thirds of their heating
+power undeveloped.
 
 Some remedy for this state of things, we may hope, is at hand, in the gas
-
- regenerative furnaces recently introduced by Mr. Siemens. In these fur-
-
- naces the rejected heat is arrested by a so-called " regenerator," as in Stirling's
-
- air-engine, and is communicated to the new fuel before it enters the furnace.
-
- The fuel, however, is not solid coal, biit gas previously evolved from coal. A
-
- stream of this gas raised to a high temperature by the rejected heat of com-
-
- bustion is admitted into the furnace, and there meets a stream of atmospheric
-
- air also raised to a high temperature by the same agency. In the combina-
-
- tion which then ensues, the heat evolved by the combustion is superadded
-
- to the heat previously acquired by the gases. Thus, in addition to the ad-
-
- vantage of economy, a greater intensity of heat is attained than by the com-
-
- bustion of unheated fuel. In fact, as the heat evolved in the furnace, or so
-
- much of it as is not communicatect to the bodies exposed to its action, con-
-
- tinually returns to augment the eftcct of the new fuel, there appears to be no
-
- limit to the temperature attainable, excejit the powers of resistance in the
-
- materials of which the furnace is composed.
-
-
+regenerative furnaces recently introduced by Mr. Siemens. In these furnaces
+the rejected heat is arrested by a so-called ``regenerator,'' as in Stirling's
+air-engine, and is communicated to the new fuel before it enters the furnace.
+The fuel, however, is not solid coal, biit gas previously evolved from coal. A
+stream of this gas raised to a high temperature by the rejected heat of combustion
+is admitted into the furnace, and there meets a stream of atmospheric
+air also raised to a high temperature by the same agency. In the combination
+which then ensues, the heat evolved by the combustion is superadded
+to the heat previously acquired by the gases. Thus, in addition to the advantage
+of economy, a greater intensity of heat is attained than by the combustion
+of unheated fuel. In fact, as the heat evolved in the furnace, or so
+much of it as is not communicated to the bodies exposed to its action, continually
+returns to augment the effect of the new fuel, there appears to be no
+limit to the temperature attainable, except the powers of resistance in the
+materials of which the furnace is composed.
 
 With regard to smoke, which is at once a waste and a nuisance, having
-
- myself taken part with Dr, Eichardson and Mr. Longridge in a series of ex-
-
- periments made in this neighbourhood in the years 1857-58 for the purpose
-
- of testing the practioabUity of preventing smoke in the combustion of bitu-
-
- minous coal in steam-engine boilers, I can state with perfect confidence that,
-
- so far as the raising of steam is concerned, the production of smoke is unne-
-
- cessary and inexcusable. The experiments to wliich I refer proved beyond
-
- a doubt, that by an easy method of firing, combined with a due admission of
-
- air and a proper aiTangement of firegrate, not involving any complexity, the
-
- emission of smoke might be perfectly avoided, and that the prevention of
-
- the smoke increased the economic value of the fuel and the evaporative power
-
- of the boiler. As a rule, there is moj-e smoke evolved from the fires of steam-
-
- engines than from any others, and it is in these fii-es that it may be most
-
- easily prevented. Eut in the furnaces used for most manufacturing opera-
-
- tions the prevention of smoke is much more difficult, and will probably not
-
- be effected until a radical change is made in the system of applying fuel for
-
- such operations.
-
-
-
-
-ADDRESS. Ivii
-
-
+myself taken part with Dr. Richardson and Mr. Longridge in a series of experiments
+made in this neighbourhood in the years 1857-58 for the purpose
+of testing the practicability of preventing smoke in the combustion of bituminous
+coal in steam-engine boilers, I can state with perfect confidence that,
+so far as the raising of steam is concerned, the production of smoke is unnecessary
+and inexcusable. The experiments to which I refer proved beyond
+a doubt, that by an easy method of firing, combined with a due admission of
+air and a proper arrangement of firegrate, not involving any complexity, the
+emission of smoke might be perfectly avoided, and that the prevention of
+the smoke increased the economic value of the fuel and the evaporative power
+of the boiler. As a rule, there is more smoke evolved from the fires of steam-engines
+than from any others, and it is in these fires that it may be most
+easily prevented. But in the furnaces used for most manufacturing operations
+the prevention of smoke is much more difficult, and will probably not
+be effected until a radical change is made in the system of applying fuel for
+such operations.
 
 Not less wasteful and extravagant is our mode of employing coal for
-
- domestic purposes. It is computed that the consumption of coal in dwelling-
-
- houses amounts in this coimtry to a ton per head per annum of the entire
-
- population ; so that upwards of twenty-nine millions of tons are annually
-
- expended in Groat Britain alone for domestic use. If any one will consider
-
- that one pound of coal applied to a well-constructed steam-engine boiler eva-
-
- porates 10 lbs. or one gallon of water, and if he will compare this eifect with
-
- the insignificant quantity of water which can be boUed off in steam by a
-
- pound of coal consumed in an ordinary kitchen fire, he wiU be able to appre-
-
- ciate the enormous waste which takes place by the common method of burn-
-
- ing coal for culinary purposes. The simplest arrangements to confine the
-
- heat and concentrate it upon the operation to be performed would sufiice to
-
- obviate this reprehensible waste. So also in warming houses we consume in
-
- our open fires about five times as much coal as will produce the same heating
-
- effect when burnt in a close and j^roperly consti-ucted stove. "Without sacri-
-
- ficing the luxury of a visible fire, it would be easy, by attending to the prin-
-
- ciples of radiation and convection, to render available the greater part of the
-
- heat which is now so improvidently discharged into the chimney. These are
-
- homely considerations — too much so, perhaps, for an assembly like this ; but I
-
- trust that an abuse involving a useless expenditure exceeding in amount our
-
- income-tax, and capable of being rectified by attention to scientific principles,
-
- may not be deemed unworthy of the notice of some of those whom I have
-
- the honour of addressing.
-
-
+domestic purposes. It is computed that the consumption of coal in dwelling-houses
+amounts in this country to a ton per head per annum of the entire
+population; so that upwards of twenty-nine millions of tons are annually
+expended in Great Britain alone for domestic use. If any one will consider
+that one pound of coal applied to a well-constructed steam-engine boiler evaporates
+10 lbs. or one gallon of water, and if he will compare this effect with
+the insignificant quantity of water which can be boiled off in steam by a
+pound of coal consumed in an ordinary kitchen fire, he will be able to appreciate
+the enormous waste which takes place by the common method of burning
+coal for culinary purposes. The simplest arrangements to confine the
+heat and concentrate it upon the operation to be performed would suffice to
+obviate this reprehensible waste. So also in warming houses we consume in
+our open fires about five times as much coal as will produce the same heating
+effect when burnt in a close and properly constructed stove. Without sacrificing
+the luxury of a visible fire, it would be easy, by attending to the principles
+of radiation and convection, to render available the greater part of the
+heat which is now so improvidently discharged into the chimney. These are
+homely considerations - too much so, perhaps, for an assembly like this; but I
+trust that an abuse involving a useless expenditure exceeding in amount our
+income-tax, and capable of being rectified by attention to scientific principles,
+may not be deemed unworthy of the notice of some of those whom I have
+the honour of addressing.
 
 The introduction of the Davy lamp was a great event in the history of
+coal-mining, not as effectiug any great diminution of those disastrous accidents
+which still devastate every colliery district, but as a means of enabling
+mines to be worked which, from their greater explosive tendencies, would
+otherwise have been deemed inaccessible. Thus, while the Davy lamp has
+been of great benefit both to the public and the proprietors of coal, it has been
+the means of leading the miners into more perilous workings, and the frequency
+of accident by explosion has in consequence not been diminished to
+the extent which was originally expected. The Davy lamp is a beautiful
+application of a scientific principle to effect a practical purpose, and with
+fair treatment its efficiency is indisputable; but where Davy lamps are entrusted
+to hundreds of men, and amongst them to many careless and reckless
+persons, it is impossible to guard entirely against gross negligence
+and its disastrous consequences. In coal-mines where the most perfect
+system of ventilation prevails, and where proper regulations are, as far as
+practicable, enforced in regard to the use of Davy lamps, deplorable accidents
+do occasionally occur, and it is impossible at present to point out what additional
+precautions would secure immunity from such calamities. The only
+gleam of amelioration is in the fact that the loss of life in relation to the quantity
+of coal worked is on the decrease, from which we may infer that it is also
+on the decrease taken as a percentage on the number of miners employed.
 
- coal-mining, not as eff"ectiug any great diminution of those disastroiis acci-
-
- dents which stiU devastate every coUiery chstrict, but as a means of enabling
-
- mines to be worked which, from their greater explosive tendencies, would
-
- otherwise have been deemed inaccessible. Thus, while the Davy lamp has
-
- be«n of great benefit both to the public and the proprietors of coal, it has been
-
- the means of leading the miners into more peiilous workings, and the fre-
-
- quency of accident by explosion has in consequence not been diminished to
-
- the extent which was originally expected. The Davy lamp is a beautiful
-
- application of a scientific principle to effect a practical purpose, and with
-
- fair treatment its efficiency is indisputable ; but where Davy lamps are en-
-
- trusted to hundreds of men, and amongst them to many careless and reck-
-
- less persons, it is impossible to guard entirely against gross negligence
-
- and its disastrous consequences. In coal-mines where the most perfect
-
- system of ventilation prevails, and where proper regulations are, as far as
-
- practicable, enforced in regard to the use &f Davy lamps, deplorable accidents
-
- do occasionally occur, and it is impossible at present to point out what addi-
-
- tional precautions would secure immunity from siich calamities. The only
-
- gleam of amelioration is in the fact that the loss of life in relation to the quan-
-
- tity of coal worked is on the decrease, from which we may infer that it is also
-
- on the decrease taken as a percentage on the number of miners employed.
-
-
-
-The increase of the earth's temperature as we descend below the siu-face
-
- is a subject which has been discussed at previous Meetings of the British
-
- Association. It possesses great scientific interest as affecting the computed
-
- thickness of the crust which covers the molten mass assiuned to constitute
-
- the interior portions of the earth, and it is also of great practical importance
-
- as determining the depth at which it would be possible to pursue the work-
-
- ing of coal and other minerals. The deepest coal-mine in this district is the
-
- Monkwearmouth Colliery, which reaches a depth of 1800 feet below the
-
- surface of the ground, and nearly as much below the level of the sea. The
-
-
-
-
-ivin REPORT — 1863.
-
-
-
+The increase of the earth's temperature as we descend below the surface
+is a subject which has been discussed at previous Meetings of the British
+Association. It possesses great scientific interest as affecting the computed
+thickness of the crust which covers the molten mass assumed to constitute
+the interior portions of the earth, and it is also of great practical importance
+as determining the depth at which it would be possible to pursue the working
+of coal and other minerals. The deepest coal-mine in this district is the
+Monkwearmouth Colliery, which reaches a depth of 1800 feet below the
+surface of the ground, and nearly as much below the level of the sea. The
 observed temperature of the strata at this depth agrees pretty closely with
+what has been ascertained in other localities, and shows that the increase
+takes place at the rate of 1° Fahr. to about 60 feet of depth. Assuming the
+temperature of subterranean fusion to be 3000°, and that the increase of heat
+at greater depths continues uniform (which, however, is by no means certain),
+the thickness of the film which separates us from the fiery ocean beneath
+will be about thirty-four miles - a thickness which may be fairly represented
+by the skin of a peach taken in relation to the body of the fruit which
+it covers. The depth of 4000 feet, which has been assumed as the limit at
+which coal could be worked, would probably be attended by an increase
+of heat exceeding the powers of human endurance. In the Monkwearmouth
+colliery, which is less than half that depth, the temperature of the air in the
+workings is about 84° Fahr., which is considered to be nearly as high as is
+consistent with the great bodily exertion necessary in the operation of mining.
+The computations therefore of the duration of coal would probably require a
+considerable reduction in consequence of too great a depth being assumed as
+practicable.
 
- what has been ascertained in other localities, and shows that the increase
+At the last Meeting of the British Association in this town, the importance
+of establishing an office for mining records was brought under the notice
+of the Council by Mr. Sopwith, and measures were taken which resulted in
+the formation of the present Mining Records Office. The British Association
+may congratulate itself upon having thus been instrumental in establishing an
+office in which plans of abandoned mines are preserved for the information of
+those who, at a future period, may be disposed to incur the expense of bringing
+those mines again into operation. But more than this is required. Many of
+the inferior seams of coal can be profitably worked only in conjunction with
+those of superior quality, and they will be entirely lost if neglected until the
+choicer beds be exhausted. Although coal is private property, its duration
+is a national question, and Government interference would be justified to
+enforce such modes of working as the national interests demand. But to
+enable Government to exercise any supervision and control, a complete
+mining survey of all our coal-fields should be made, and full plans, sections,
+and reports lodged at the Mining Records Office for the information of the
+legislature and of the public in general.
 
- takes place at the rate of 1° Fahr. to about 60 feet of depth. Assuming the
-
- temperature of subterranean fusion to be 3000°, and that the increase of heat
-
- at greater depths continvies uniform (which, however, is by no means certain),
-
- the thickness of the film which separates us from the fiery ocean beneath
-
- wiU be about thirty-four miles — a thickness which may be fairly repre-
-
- sented by the skin of a peach taken in relation to the body of the fruit which
-
- it covers. The depth of 4000 feet, which has been assumed as the limit at
-
- which coal could be worked, would probably be attended by an increase
-
- of heat exceeding the powers of hixraan endurance. In the Monkwearmouth
-
- colliery, which is less than half that depth, the temperature of the air in the
-
- workings is about 84° Fahr., which is considered to be nearly as high as is
-
- consistent with the great bodily exertion necessary in the operation of mining.
-
- The computations therefore of the duration of coal would probably require a
-
- considerable reduction in consequence of too great a depth being assumed as
-
- practicable.
-
-
-
-At the last Meeting of the British Association in this town, the import-
-
- ance of establishing an office for mining records was brought under the notice
-
- of the Council by Mr. Sopwith, and measures were taken which resulted in
-
- the formation of the present Mining Eecords Office. The British Association
-
- may congratulate itself upon having thus been instrumental in establishing an
-
- office in which plans of abandoned mines are preserved for the information of
-
- those who, at a future period, may be disposed to incur the expense of bringing
-
- those mines again into operation. But more than this is required. Many of
-
- the inferior seams of coal can be profitably worked only in conjunction with
-
- those of superior quality, and they will be entirely lost if neglected until the
-
- choicer beds be exhausted. Although coal is private property, its duration
-
- is a national question, and Government interference would be justified to
-
- enforce such modes of working as the national interests demand. - But to
-
- enable Government to exercise any supervision and control, a complete
-
- mining survey of all our coal-fields should be made, and full plans, sections,
-
- and reports lodged at the Mining Records Office for the information of the
-
- legislature and of the public in general.
-
-
-
-• Before cUsmissing the subject of coal, it may be proper to notice the recent
-
- discovery by Berthelot of a new form of carburctted hydi'ogen possessing
-
- twice the illimiinating power of ordinary coal-gas. Berthelot succeeded in
-
- procuring this gas by passing hydrogen between the carbon electrodes of a
-
- powerfiil battery. Dr. OdHng has since shown that the same gas may be
-
- prodiiced by mixing carbonic oxide with an equal volume of light carbu-
-
- rctted hydrogen and exposing the mixture in a porcelain tube to an intense
-
- heat. Still more recently, Mr. Siemens has detected the same gas in the
-
- highly heated regenerators of his furnaces, and there is now every reason to
-
- believe that the new gas will become practically available for iUiuninating-
-
- purposes. Thus it is that discoveries which in the first instance interest
-
- the philosopher only almost invariably initiate a rapid series of steps leading
-
- to results of great practical importance to mankind.
-
-
+Before dismissing the subject of coal, it may be proper to notice the recent
+discovery by Berthelot of a new form of carburetted hydrogen possessing
+twice the illuminating power of ordinary coal-gas. Berthelot succeeded in
+procuring this gas by passing hydrogen between the carbon electrodes of a
+powerful battery. Dr. Odling has since shown that the same gas may be
+produced by mixing carbonic oxide with an equal volume of light carburetted
+hydrogen and exposing the mixture in a porcelain tube to an intense
+heat. Still more recently, Mr. Siemens has detected the same gas in the
+highly heated regenerators of his furnaces, and there is now every reason to
+believe that the new gas will become practically available for illuminating-purposes.
+Thus it is that discoveries which in the first instance interest
+the philosopher only almost invariably initiate a rapid series of steps leading
+to results of great practical importance to mankind.
 
 In the course of the preceding observations I have had occasion to speak of
-
- the Sim as the great source of motive power on our earth, and I must not omit
-
- to refer to recent discoveries connected with that most glorious body. Of all
-
- the results which science has produced within the last few years, none has
-
- been more unexpected than that by which we are enabled to test the materials
-
- 6i which the sim is made, and prove their identity, in part at least, with those
-
-
-
-
-ADDKESS. lix
-
-
-
-of our platiet. The spectrum experiments of Bunsen and Kirchhoffhave not
-
- only shown all this, but they have also corroborated previous conjectures as
-
- to the luminous envelope of the sun. I have still to advert to Mr. Nasmyth's
-
- remarkable discovery, that the bright surface of the sun is composed of an
-
- aggregation of apparently solid forms, shaped like vrillow-leaves or some well-
-
- known forms of Diatomacese, and interlacing one another in every direction.
-
- The forms are so regular in size and shape, as to have led to a suggestion
-
- from one of our profoundest philosophers of their being organisms, possibly
-
- even partaking of the nature of Ufe, but at all events closely connected
-
- with the heating and vivifying influences of the sun. These mysterious
-
- objects, which, since Mr. Nasmyth discovered them, have been seen by other
-
- observers as weU, are computed to be each not less than 1000 miles in length
-
- and about 100 miles in breadth. The enormous chasms in the sun's photo-
-
- sphere, to which we apply the diminutive term "spots," exhibit the extremities
-
- of these leaf -like bodies pointing inwards, and fringing the sides of the cavern
-
- far down into the abyss. Sometimes they form a sort of rope or bridge
-
- across the chasm, and appear to adhere to one another by lateral attraction.
-
- I can imagine nothing more deserving of the scrutiny of observers than these
-
- extraordinary forms. The sympathy also which appears to exist between
-
- forces operating in the sun and magnetic forces belonging to the earth merits
-
- a continuance of that close attention which it has already received from the
-
- British Association, and of labours such as General Sabine has with so much
-
- ability and effect devoted to the elucidation of the subject. I may here notice
-
- that most remarkable phenomenon which was seen by independent observers
-
- at two different places on the 1st of September 1859. A sudden outburst of
-
- light, far exceeding the brightness of the sun's surface, was seen to take place,
-
- and sweep like a drifting cloud over a portion of the solar face. This was
-
- attended with magnetic disturbances of unusual intensity and with exhibitions
-
- of aurora of extraordinary brilliancy. The identical instant at which the
-
- effusion of light was observed was recorded by an abrupt and strongly
-
- marked deflection in the self-registering instruments at Kew. The pheno-
-
- menon as seen was probably only part of what actually took place, for the
-
- magnetic storm in the midst of which it occurred commenced before and
-
- continued after the event. If conjecture be allowable in such a case, we may
-
- suppose that this remarkable event had some connexion with the means by
-
- which the sun's heat is renovated. It is a reasonable supposition that the
-
- sun was at that time in the act of receiving a more than usual accession
-
- of new energy ; and the theory which assigns the maintenance of its
-
- power to cosmical matter plunging into it with that prodigious Velocity
-
- which gravitation would impress upon it as it approached to actual contact
-
- with the solar orb, would afford an explanation of this sudden exhibition of
-
- intensified light in harmony with the knowledge we have now attained that
-
- arrested motion is represented by equivalent heat. Telescopic observations
-
- wdll probably add new facts to guide our judgment on this subject, and,^taken
-
- in connexion with observations on terrestrial magnetism, may enlarge and
-
- correct our views respecting the nature of heat, light, and electricity. Much
-
- as we have yet to learn respecting these agencies, we know sufficient to infer
-
- that they cannot be transmitted from the sun to the earth except by com-
-
- munication from particle to particle of intervening matter. Not that I speak
-
- of particles in the sense of the atomist. Whatever om* views may be of the
-
- nature of particles, we must conceive them as centres invested with surround-
-
- ing forces. We have no evidence, either from our senses or otherwise, of those
-
- centres being occupied by sojid cores of indivisible incompressible mattei:
-
-
-
-
-Ix -REPORT 1863.
-
-
-
+the sun as the great source of motive power on our earth, and I must not omit
+to refer to recent discoveries connected with that most glorious body. Of all
+the results which science has produced within the last few years, none has
+been more unexpected than that by which we are enabled to test the materials
+of which the sun is made, and prove their identity, in part at least, with those
+of our planet. The spectrum experiments of Bunsen and Kirchhoff have not
+only shown all this, but they have also corroborated previous conjectures as
+to the luminous envelope of the sun. I have still to advert to Mr. Nasmyth's
+remarkable discovery, that the bright surface of the sun is composed of an
+aggregation of apparently solid forms, shaped like willow-leaves or some well-known
+forms of Diatomaceae, and interlacing one another in every direction.
+The forms are so regular in size and shape, as to have led to a suggestion
+from one of our profoundest philosophers of their being organisms, possibly
+even partaking of the nature of Ufe, but at all events closely connected
+with the heating and vivifying influences of the sun. These mysterious
+objects, which, since Mr. Nasmyth discovered them, have been seen by other
+observers as well, are computed to be each not less than 1000 miles in length
+and about 100 miles in breadth. The enormous chasms in the sun's photo-sphere,
+to which we apply the diminutive term "spots," exhibit the extremities
+of these leaf-like bodies pointing inwards, and fringing the sides of the cavern
+far down into the abyss. Sometimes they form a sort of rope or bridge
+across the chasm, and appear to adhere to one another by lateral attraction.
+I can imagine nothing more deserving of the scrutiny of observers than these
+extraordinary forms. The sympathy also which appears to exist between
+forces operating in the sun and magnetic forces belonging to the earth merits
+a continuance of that close attention which it has already received from the
+British Association, and of labours such as General Sabine has with so much
+ability and effect devoted to the elucidation of the subject. I may here notice
+that most remarkable phenomenon which was seen by independent observers
+at two different places on the 1st of September 1859. A sudden outburst of
+light, far exceeding the brightness of the sun's surface, was seen to take place,
+and sweep like a drifting cloud over a portion of the solar face. This was
+attended with magnetic disturbances of unusual intensity and with exhibitions
+of aurora of extraordinary brilliancy. The identical instant at which the
+effusion of light was observed was recorded by an abrupt and strongly
+marked deflection in the self-registering instruments at Kew. The phenomenon
+as seen was probably only part of what actually took place, for the
+magnetic storm in the midst of which it occurred commenced before and
+continued after the event. If conjecture be allowable in such a case, we may
+suppose that this remarkable event had some connexion with the means by
+which the sun's heat is renovated. It is a reasonable supposition that the
+sun was at that time in the act of receiving a more than usual accession
+of new energy; and the theory which assigns the maintenance of its
+power to cosmical matter plunging into it with that prodigious velocity
+which gravitation would impress upon it as it approached to actual contact
+with the solar orb, would afford an explanation of this sudden exhibition of
+intensified light in harmony with the knowledge we have now attained that
+arrested motion is represented by equivalent heat. Telescopic observations
+will probably add new facts to guide our judgment on this subject, and, taken
+in connexion with observations on terrestrial magnetism, may enlarge and
+correct our views respecting the nature of heat, light, and electricity. Much
+as we have yet to learn respecting these agencies, we know sufficient to infer
+that they cannot be transmitted from the sun to the earth except by communication
+from particle to particle of intervening matter. Not that I speak
+of particles in the sense of the atomist. Whatever our views may be of the
+nature of particles, we must conceive them as centres invested with surrounding
+forces. We have no evidence, either from our senses or otherwise, of those
+centres being occupied by solid cores of indivisible incompressible matter
 essentially distinct from force. Dr. Young has shown that even in so dense
-
- a body as water, these nuclei, if they exist at all, must be so small in relation
-
- to the intervening spaces, that a hundi-ed men distributed at equal distances
-
- over the vrhole surface of England would represent their relative magnitude
-
- and distance. What then must be these relative dimensions in highly rarefied
-
- matter ? But why encumber our conceptions of material forces by this unneces-
-
- sary imagining of a central molecule ? If we retain the forces and reject the
-
- molecule, we shall still have every property we can recognize in matter by
-
- the use of our senses or by the aid of our reason. Viewed in this light, matter
-
- is not merely a thing subject to force, but is itself composed and constituted
-
- of force.
-
-
+a body as water, these nuclei, if they exist at all, must be so small in relation
+to the intervening spaces, that a hundred men distributed at equal distances
+over the whole surface of England would represent their relative magnitude
+and distance. What then must be these relative dimensions in highly rarefied
+matter? But why encumber our conceptions of material forces by this unnecessary
+imagining of a central molecule? If we retain the forces and reject the
+molecule, we shall still have every property we can recognize in matter by
+the use of our senses or by the aid of our reason. Viewed in this light, matter
+is not merely a thing subject to force, but is itself composed and constituted
+of force.
 
 The dynamical theory of heat is probably the most important discovery of the
-
- jjresent century. We now know that each Fahrenheit degree of temperature
-
- in a pound of water is equivalent to a weight of 772 lbs. lifted 1 foot high,
-
- and that these amounts of heat and power are reciprocally convertible into
-
- one another. This theory of heat, with its numerical computation, is chiclly
-
- due to the labours of Mayer and Joule, though many other names, including
-
- those of Thomson and Kankine, are deservedly associated with its develop-
-
- ment. I speak of this discovery as one of the present age because it has
-
- been established in our time; but if we search back for earlier concep-
-
- tions of the identity of heat and motion, we shall find (as we always do in
-
- such cases) that similar ideas have been held before, though in a clouded and
-
- undemonstrated form. In the writiags of Lord Bacon we find it stated
-
- that heat is to be regarded as motion and nothing else. In dilating upon
-
- this subject, that extraordinary man shows that he had grasped the true
-
- theory of heat to the utmost extent that was compatible -with the state of
-
- knowledge existing in his time. Even Ai-istotle seems to have entertained
-
- the idea that motion was to be considered as the foundation not only of heat,
-
- but of all manifestations of matter ; and, for aught we know, still earlier
-
- thinkers may have held similar views.
-
-
+present century. We now know that each Fahrenheit degree of temperature
+in a pound of water is equivalent to a weight of 772 lbs. lifted 1 foot high,
+and that these amounts of heat and power are reciprocally convertible into
+one another. This theory of heat, with its numerical computation, is chiefly
+due to the labours of Mayer and Joule, though many other names, including
+those of Thomson and Rankine, are deservedly associated with its development.
+I speak of this discovery as one of the present age because it has
+been established in our time; but if we search back for earlier conceptions
+of the identity of heat and motion, we shall find (as we always do in
+such cases) that similar ideas have been held before, though in a clouded and
+undemonstrated form. In the writings of Lord Bacon we find it stated
+that heat is to be regarded as motion and nothing else. In dilating upon
+this subject, that extraordinary man shows that he had grasped the true
+theory of heat to the utmost extent that was compatible with the state of
+knowledge existing in his time. Even Aristotle seems to have entertained
+the idea that motion was to be considered as the foundation not only of heat,
+but of all manifestations of matter; and, for aught we know, still earlier
+thinkers may have held similar views.
 
 The science of gunnery, to which I shall make but slight allusion on this
-
- occasion, is intimately connected with the dynamical theory of heat. When
-
- gunpowder is exploded in a cannon, the immediate effect of the affinities by
-
- which the materials of the powder are caused to enter into new combinations,
-
- is to liberate a force which first appears as heat, and then takes the form of
-
- mechanical power communicated in part to the shot and in part to the pro-
-
- ducts of explosion which are also propelled from the gun. The mechanical
-
- force of the shot is reconverted into heat when the motion is arrested by
-
- striking an object, and this heat is divided between the shot and the object
-
- struck, in the proportion of the work done or damage inflicted upon each.
-
- These considerations recently led me, in conjunction with my friend Captain
-
- Noble, to determuie experimentally, by the heat elicited in the shot, the loss
-
- of effect due to its ciiishing when fired against iron plates. Joule's law, and
-
- the known velocity of the shot, enabled us to compute the number of dyna-
-
- mical units of heat representing the whole mechanical power in the projectile,
-
- and by ascertaining the number of vmits developed in it by impact, we arrived
-
- at the power which took effect upon the shot instead of the plate. These ex-
-
- periments showed an enormous absorption of power to be caused by the
-
- yielding nature of the materials of which projectiles are usually formed ; but
-
- further experiments are required to complete the inquiry.
-
-
+occasion, is intimately connected with the dynamical theory of heat. When
+gunpowder is exploded in a cannon, the immediate effect of the affinities by
+which the materials of the powder are caused to enter into new combinations,
+is to liberate a force which first appears as heat, and then takes the form of
+mechanical power communicated in part to the shot and in part to the products
+of explosion which are also propelled from the gun. The mechanical
+force of the shot is reconverted into heat when the motion is arrested by
+striking an object, and this heat is divided between the shot and the object
+struck, in the proportion of the work done or damage inflicted upon each.
+These considerations recently led me, in conjunction with my friend Captain
+Noble, to determine experimentally, by the heat elicited in the shot, the loss
+of effect due to its crushing when fired against iron plates. Joule's law, and
+the known velocity of the shot, enabled us to compute the number of dynamical
+units of heat representing the whole mechanical power in the projectile,
+and by ascertaining the number of units developed in it by impact, we arrived
+at the power which took effect upon the shot instead of the plate. These experiments
+showed an enormous absorption of power to be caused by the
+yielding nature of the materials of which projectiles are usually formed; but
+further experiments are required to complete the inquiry.
 
 Whilst speaking of the subject of gunnery, I must pay a passing tribute of
-
- praise to that beautiful instrument invented and perfected by Major Navez of
-
- the Belgian Artillery, for determining, by means of electro-magnetism, the
-
-
-
-
-ADDRESS.
-
-
-
-Ixi
-
-
-
+praise to that beautiful instrument invented and perfected by Major Navez of
+the Belgian Artillery, for determining, by means of electro-magnetism, the
 velocity of projectiles. This instrument has been of great value in recent
-
- investigations, and there are questions affecting projectiles which we can
-
- only hope to solve by its assistance. Experiments are still required to clear
-
- up several apparently anomalous effects in gunnery, and to determine the con-
-
- ditions most conducive to efficiency both as regards attack and defence. It is
-
- gratifying to see our Government acting in accordance with the enlightened
-
- principles of the age by carrying on scientific experiments to arrive at know-
-
- ledge, which, in the arts of war as well as in those of peace, is proverbially
-
- recognized as the true source of human power.
-
-
-
-Professor TyndaU's recent discoveries respecting the absoqition and radi-
-
- ation of heat by vapoui-s and permanent gases constitute important additions
-
- to our knowledge. The extreme delicacy of his experiments and the remark-
-
- able distinctness of their results render them beautiful examples of physical
-
- research. They are of great value as affording further illustrations of the
-
- vibratory actions in matter which constitute heat ; but it is in connexion with
-
- the science of meteorology that they chiefly command our attention. From
-
- these experiments we learn that the minute quantity of water suspended as
-
- invisible vapour in the atmosphere acts as a warm clothing to the earth. The
-
- efficacy of this vapour in arresting heat is, in comparison with that of air,
-
- perfectly astounding. Although the atmosphere contains on an average
-
- but one particle of aqueous vapour to 200 of air, yet that single par-
-
- ticle absorbs 80 times as much heat as the collective 200 particles of air.
-
- Eemove, says Professor Tyndall, for a single summer night, the aqueous
-
- vapour from the air which overspreads this countiy, and you would assuredly
-
- destroy every plant incapable of bearing extreme cold. The warmth of our
-
- fields and gardens would pour itself unrequited into space, and the sun would
-
- rise upon an island held fast in the grip of frost. Many meteorological phe-
-
- nomena receive a feasible explanation from these investigations, which are
-
- probably destined to throw further light upon the functions of our atmosphere.
-
-
-
-Pew sciences have more practical value than meteorology, and there are
-
- few of which we as yet know so little. Nothing would contribute more to
-
- the saving of life and property, and to augmenting the general wealth of the
-
- world, than the ability to foresee with certainty impending changes of the
-
- weather. At present our means of doing so are exceedingly imperfect, but,
-
- such as they are, they have been employed with considerable effect by
-
- Admiral FitzEoy in warning mariners of the probable approach of storms.
-
- "We may hope that so good an object wiU be effected with more unvarying
-
- success when we attain a better knowledge of the causes by which wind and
-
- rain, heat and cold are determined. The balloon explorations conducted
-
- with so much intrepidity by Mr. Glaisher, under the auspices of the British
-
- Association, may perhaps in some degree assist in enlightening us upon
-
- these important subjects. We have learnt from Mr. Glaisher s observations
-
- that the decrease of temperature with elevation does not follow the law pre-
-
- viously assumed of 1° in 300 feet, and that in fact it follows no definite law
-
- at aU. Mr, Glaisher appears also to have ascertained the interesting fact
-
- that rain is only precipitated when cloud exists in a double layer. Rain-
-
- drops, he has found, diminish in size with elevation, merging into wet mist
-
- and ultimately into dry fog. Mr. Glaisher met with snow for a mile in
-
- thickness below rain, which is at variance with our preconceived^ ideas. He
-
- has also rendered good service by testing the efficiency of various instriiments
-
- at heights which cannot be visited without personal danger.
-
-
-
-The facility now given to the transmission of intelligence and the inter-
-
- change of thought is one of the most remarkable features of the present
-
-
-
-
-Ixii REPORT — 1863.
-
-
-
-age. Cheap and rapid postage to all parts of the world — paper and printing
-
- reduced to the lowest possible cost — electric telegraphs between nation and
-
- nation, town and town, and now even (thanks to the beautiful inventions of
-
- Professor Wheatstone) between house and house — aU contribute to aid that
-
- commerce of ideas by which wealth and knowledge are augmented. But
-
- while so much facility is given to mental communication by new measures
-
- and new inventions, the fundamental art of expressing thought by written
-
- symbols remains as imperfect now as it has been for centuries past. It seems
-
- strange that while we actually possess a system of shorthand by which words
-
- can be recorded as rapidly as they can be spoken, we should persist in writing
-
- a slow and laborious longhand. It is intelligible that grown-up persons who
-
- have acquired the present conventional art of writing should be reluctant to
-
- incur the labour of mastering a better system ; but there can be no reason why
-
- the rising generation should not be instructed in a method of writing more in
-
- accordance with the activity of mind which now prevails. Even without
-
- going so far as to adopt for ordinary use a complete system of stenography,
-
- which it is not easy to acquire, we might greatly abridge the time and laboui'
-
- of writing by the recognition of a few simple signs to express the syllables
-
- which are of most frequent occurrence in our language. Our words are in a
-
- great measure made up of such syllables as com, con, tion, iwj, able, ain, ent,
-
- 'est, mice, &c. These we are now obliged to write out over and over again, as
-
- if time and laboiu" expended in what may be termed visual speech were of no
-
- importance. Neither has our written character the advantage of distinctness
-
- to recommend it : it is only necessary to write such a word as " minimum "
-
- or " ammunition " to become aware of the want of sufficient difference be-
-
- tween the letters we employ. I refrain firom enlarging on this subject,
-
- because I conceive that it belongs to social more than to physical science,
-
- although the boundary which separates the two is sufficiently indistinct to
-
- permit of my aUuding to it in the hope of procuring for it the attention
-
- which its importance deserves.
-
-
+investigations, and there are questions affecting projectiles which we can
+only hope to solve by its assistance. Experiments are still required to clear
+up several apparently anomalous effects in gunnery, and to determine the conditions
+most conducive to efficiency both as regards attack and defence. It is
+gratifying to see our Government acting in accordance with the enlightened
+principles of the age by carrying on scientific experiments to arrive at knowledge,
+which, in the arts of war as well as in those of peace, is proverbially
+recognized as the true source of human power.
+
+Professor Tyndall's recent discoveries respecting the absoqition and radiation
+of heat by vapours and permanent gases constitute important additions
+to our knowledge. The extreme delicacy of his experiments and the remarkable
+distinctness of their results render them beautiful examples of physical
+research. They are of great value as affording further illustrations of the
+vibratory actions in matter which constitute heat; but it is in connexion with
+the science of meteorology that they chiefly command our attention. From
+these experiments we learn that the minute quantity of water suspended as
+invisible vapour in the atmosphere acts as a warm clothing to the earth. The
+efficacy of this vapour in arresting heat is, in comparison with that of air,
+perfectly astounding. Although the atmosphere contains on an average
+but one particle of aqueous vapour to 200 of air, yet that single particle
+absorbs 80 times as much heat as the collective 200 particles of air.
+Remove, says Professor Tyndall, for a single summer night, the aqueous
+vapour from the air which overspreads this country, and you would assuredly
+destroy every plant incapable of bearing extreme cold. The warmth of our
+fields and gardens would pour itself unrequited into space, and the sun would
+rise upon an island held fast in the grip of frost. Many meteorological phenomena
+receive a feasible explanation from these investigations, which are
+probably destined to throw further light upon the functions of our atmosphere.
+
+Few sciences have more practical value than meteorology, and there are
+few of which we as yet know so little. Nothing would contribute more to
+the saving of life and property, and to augmenting the general wealth of the
+world, than the ability to foresee with certainty impending changes of the
+weather. At present our means of doing so are exceedingly imperfect, but,
+such as they are, they have been employed with considerable effect by
+Admiral FitzRoy in warning mariners of the probable approach of storms.
+We may hope that so good an object will be effected with more unvarying
+success when we attain a better knowledge of the causes by which wind and
+rain, heat and cold are determined. The balloon explorations conducted
+with so much intrepidity by Mr. Glaisher, under the auspices of the British
+Association, may perhaps in some degree assist in enlightening us upon
+these important subjects. We have learnt from Mr. Glaisher's observations
+that the decrease of temperature with elevation does not follow the law previously
+assumed of 1° in 300 feet, and that in fact it follows no definite law
+at all. Mr. Glaisher appears also to have ascertained the interesting fact
+that rain is only precipitated when cloud exists in a double layer. Rain-drops,
+he has found, diminish in size with elevation, merging into wet mist
+and ultimately into dry fog. Mr. Glaisher met with snow for a mile in
+thickness below rain, which is at variance with our preconceived ideas. He
+has also rendered good service by testing the efficiency of various instruments
+at heights which cannot be visited without personal danger.
+
+The facility now given to the transmission of intelligence and the interchange
+of thought is one of the most remarkable features of the present
+age. Cheap and rapid postage to all parts of the world - paper and printing
+reduced to the lowest possible cost - electric telegraphs between nation and
+nation, town and town, and now even (thanks to the beautiful inventions of
+Professor Wheatstone) between house and house - all contribute to aid that
+commerce of ideas by which wealth and knowledge are augmented. But
+while so much facility is given to mental communication by new measures
+and new inventions, the fundamental art of expressing thought by written
+symbols remains as imperfect now as it has been for centuries past. It seems
+strange that while we actually possess a system of shorthand by which words
+can be recorded as rapidly as they can be spoken, we should persist in writing
+a slow and laborious longhand. It is intelligible that grown-up persons who
+have acquired the present conventional art of writing should be reluctant to
+incur the labour of mastering a better system; but there can be no reason why
+the rising generation should not be instructed in a method of writing more in
+accordance with the activity of mind which now prevails. Even without
+going so far as to adopt for ordinary use a complete system of stenography,
+which it is not easy to acquire, we might greatly abridge the time and labour
+of writing by the recognition of a few simple signs to express the syllables
+which are of most frequent occurrence in our language. Our words are in a
+great measure made up of such syllables as com, con, tion, ing, able, ain, ent,
+est, ance, &c. These we are now obliged to write out over and over again, as
+if time and labor expended in what may be termed visual speech were of no
+importance. Neither has our written character the advantage of distinctness
+to recommend it: it is only necessary to write such a word as ``minimum''
+or ``ammunition'' to become aware of the want of sufficient difference between
+the letters we employ. I refrain from enlarging on this subject,
+because I conceive that it belongs to social more than to physical science,
+although the boundary which separates the two is sufficiently indistinct to
+permit of my alluding to it in the hope of procuring for it the attention
+which its importance deserves.
 
 Another subject of a social character which demands our consideration is
-
- the much-debated question of weights and measures. Whatever difference of
-
- opinion there may be as to the comparative merits of decimal and duodecimal
-
- division, there can, at aU events, be none as to the importance of assimilating
-
- the systems of measurement in different countries. Science suffers by the
-
- want of uniformity, because valuable observations made in one country are in
-
- a great measuj'e lost to another from the labour required to convert a series
-
- of quantities into new denomiuations. International commerce is also im-
-
- peded by the same cause, which is productive of constant inconvenience and
-
- frequent mistake. It is much to be regretted that two standards of measure
-
- so nearly alike as the English yard and the French metre should not be made
-
- absolutely identical. The metric system has already been adopted by other
-
- nations besides France, and is the only one which has any chance of becoming
-
- universal. We in England, therefore, have no alternative but to conform
-
- with France, if we desire general uniformity. The change might easily be
-
- introduced in scientific literature, and in that case it wo^^ld probably
-
- extend itself by degrees amongst the commercial classes without much
-
- legislative pressure. Besides the advantage which would thus be gained
-
- in regai'd to uniformity, I am convinced that the adoption of the decimal
-
- division of the French scale would be attended with great convenience,
-
- both in science and commerce. I can speak fi-om personal experience of
-
- the superiority of decimal measurement in all cases where accuracy is re-
-
- quired in mechanical construction. In the Elswick Works, as well as in
-
-
-
-
-ADDRESS.
-
-
-
-Ixiii
-
-
-
+the much-debated question of weights and measures. Whatever difference of
+opinion there may be as to the comparative merits of decimal and duodecimal
+division, there can, at all events, be none as to the importance of assimilating
+the systems of measurement in different countries. Science suffers by the
+want of uniformity, because valuable observations made in one country are in
+a great measure lost to another from the labour required to convert a series
+of quantities into new denomiuations. International commerce is also impeded
+by the same cause, which is productive of constant inconvenience and
+frequent mistake. It is much to be regretted that two standards of measure
+so nearly alike as the English yard and the French metre should not be made
+absolutely identical. The metric system has already been adopted by other
+nations besides France, and is the only one which has any chance of becoming
+universal. We in England, therefore, have no alternative but to conform
+with France, if we desire general uniformity. The change might easily be
+introduced in scientific literature, and in that case it would probably
+extend itself by degrees amongst the commercial classes without much
+legislative pressure. Besides the advantage which would thus be gained
+in regard to uniformity, I am convinced that the adoption of the decimal
+division of the French scale would be attended with great convenience,
+both in science and commerce. I can speak from personal experience of
+the superiority of decimal measurement in all cases where accuracy is required
+in mechanical construction. In the Elswick Works, as well as in
 some other large establishments of the same description, the inch is adopted
-
- as the unit, and all fractional parts are expressed in decimals. No difficulty
-
- has been experienced in habituating the workmen to the use of this method,
-
- and it has greatly contributed to precision of workmanship. The iuch, how-
-
- ever, is too small a unit, and it would be advantageous to substitute the metre
-
- if general concurrence could be obtained. As to oui- thermometric scale, it
-
- was originally founded in error; it is also most inconvenient in division,
-
- and ought at once to be abandoned in favour of the Centigrade scale. The
-
- recognition of the metric system and of the Centigrade scale by the numerous
-
- men of science composing the British Association, would be a most important
-
- step towards effecting that universal adoption of the French standards in this
-
- country which sooner or later wiU inevitably take place ; and the Association
-
- in its collective capacity might take the lead in this good work, by excluding
-
- in futoi-e all other standards from their published proceedings.
-
-
+as the unit, and all fractional parts are expressed in decimals. No difficulty
+has been experienced in habituating the workmen to the use of this method,
+and it has greatly contributed to precision of workmanship. The inch, however,
+is too small a unit, and it would be advantageous to substitute the metre
+if general concurrence could be obtained. As to our thermometric scale, it
+was originally founded in error; it is also most inconvenient in division,
+and ought at once to be abandoned in favour of the Centigrade scale. The
+recognition of the metric system and of the Centigrade scale by the numerous
+men of science composing the British Association, would be a most important
+step towards effecting that universal adoption of the French standards in this
+country which sooner or later will inevitably take place; and the Association
+in its collective capacity might take the lead in this good work, by excluding
+in future all other standards from their published proceedings.
 
 The recent discovery of the source of the Nile by Captains Speke and
-
- Grant has solved a problem in geography which has been a subject of specu-
-
- lation from the earliest ages. It is an honour to England that this interest-
-
- ing discovery has been made by two of her sons, and the British Association,
-
- which is accustomed to value every addition to knowledge for its own sake,
-
- whether or not it be attended with any immediate utility, will at once appre-
-
- ciate the importance of the discovery and the corn-age and devotion by which
-
- it has been accomplished. The Royal Geographical Society, under the able
-
- presidency of Sir Roderick Murchison, was chiefly instrumental in prociiring
-
- the organization of the expedition which has resulted in this great achieve-
-
- ment, and the success of the Society's labours in connexion with this and
-
- other cases of African exploration shows how much good may be effected by
-
- associations for the promotion of scientific objects.
-
-
+Grant has solved a problem in geography which has been a subject of speculation
+from the earliest ages. It is an honour to England that this interesting
+discovery has been made by two of her sons, and the British Association,
+which is accustomed to value every addition to knowledge for its own sake,
+whether or not it be attended with any immediate utility, will at once appreciate
+the importance of the discovery and the courage and devotion by which
+it has been accomplished. The Royal Geographical Society, under the able
+presidency of Sir Roderick Murchison, was chiefly instrumental in procuring
+the organization of the expedition which has resulted in this great achievement,
+and the success of the Society's labours in connexion with this and
+other cases of African exploration shows how much good may be effected by
+associations for the promotion of scientific objects.
 
 The science of organic life has of late years been making great and rapid
-
- strides, and it is gratifying to observe that researches both in zoology and
-
- botany are characterized in the present day by great accuracy and elaboration.
-
- Investigations patiently conducted upon true inductive principles cannot fail
-
- eventually to elicit the hidden laws which govern the animated world. _ Neither
-
- is there any lack of bold speculation contemporaneously with this painstaking
-
- spirit of inquiiy. The remarkable work of Mr. Darwin promulgating the
-
- doctrine of natural selection has produced a profound sensation. The novelty
-
- of this ingenious theory, the eminence of its author, and his masterly treat-
-
- ment of the subject have perhaps combined to excite more enthusiasm in its
-
- favour than is consistent with that dispassionate spirit which it is so necessary
-
- to preserve in the pui-suit of truth. Mr. Darwin's views have not passed
-
- unchallenged, and the arguments both for and against have been urged with
-
- great vigour by the supporters and opponents of the theory. Where good
-
- reasons can be shown on both sides of a question, the truth is generally to be
-
- found between the two extremes. In the present instance we may without
-
- difficulty suppose it to have been part of the great scheme of creation that
-
- natiu-al selection should be permitted to determine variations amounting even
-
- ta specific differences where those differences were matters of degi-ee ; but
-
- when natm-al selection is adduced as a cause adequate to explain the produc-
-
- tion of a new organ not provided for in original creation, the hypothesis must
-
- appear, to common apprehensions, to be pushed beyond the limits of reasonable
-
- conjecture. The Darwinian theory, when fully enunciated, founds the pedi-
-
- gree of living nature upon the most elementary form of vitalized matter. One
-
- step further would carry us back, vdthout greater violence to probability, to in-
-
- organic rudiments, and then we should be called upon to recogniae in ourselves.
-
-
-
-
-Ixiv REPORT — 1863.
-
-
-
+strides, and it is gratifying to observe that researches both in zoology and
+botany are characterized in the present day by great accuracy and elaboration.
+Investigations patiently conducted upon true inductive principles cannot fail
+eventually to elicit the hidden laws which govern the animated world. Neither
+is there any lack of bold speculation contemporaneously with this painstaking
+spirit of inquiry. The remarkable work of Mr. Darwin promulgating the
+doctrine of natural selection has produced a profound sensation. The novelty
+of this ingenious theory, the eminence of its author, and his masterly treatment
+of the subject have perhaps combined to excite more enthusiasm in its
+favour than is consistent with that dispassionate spirit which it is so necessary
+to preserve in the pursuit of truth. Mr. Darwin's views have not passed
+unchallenged, and the arguments both for and against have been urged with
+great vigour by the supporters and opponents of the theory. Where good
+reasons can be shown on both sides of a question, the truth is generally to be
+found between the two extremes. In the present instance we may without
+difficulty suppose it to have been part of the great scheme of creation that
+natiural selection should be permitted to determine variations amounting even
+to specific differences where those differences were matters of degree; but
+when natural selection is adduced as a cause adequate to explain the production
+of a new organ not provided for in original creation, the hypothesis must
+appear, to common apprehensions, to be pushed beyond the limits of reasonable
+conjecture. The Darwinian theory, when fully enunciated, founds the pedigree
+of living nature upon the most elementary form of vitalized matter. One
+step further would carry us back, vdthout greater violence to probability, to inorganic
+rudiments, and then we should be called upon to recognise in ourselves,
 and in the exquisite elaborations of the animal and vegetable kingdoms, the
+ultimate results of mere material forces left free to follow their own unguided
+tendencies. Surely our minds would in that case be more oppressed with a
+sense of the miraculous than they now are in attributing the wondrous things
+around us to the creative hand of a Great presiding Intelligence.
 
- ultimate results of mere material forces left free to follow their own unguided
-
- tendencies. Siu-ely our minds would in that case be more oppressed with a
-
- sense of the miraculous than they now are in attributing the wondi'ous things
-
- around us to the creative hand of a Great presiding IntelHgence.
-
-
-
-The evidences bearing upon the antiquity of man have been recently pro-
-
- duced in a collected and most logicaU^^-treated form by Sir Charles Lyell. It
-
- seems no longer possible to doubt that the human race has existed on the
-
- earth in a barbarian state for a period far exceeding the limit of historical
-
- record ; but notwithstanding this great antiquity, the proofs still remain un-
-
- altered that man is the latest as well as the noblest work of God.
-
-
+The evidences bearing upon the antiquity of man have been recently produced
+in a collected and most logically-treated form by Sir Charles Lyell. It
+seems no longer possible to doubt that the human race has existed on the
+earth in a barbarian state for a period far exceeding the limit of historical
+record; but notwithstanding this great antiquity, the proofs still remain unaltered
+that man is the latest as well as the noblest work of God.
 
 I will not run the risk of wearying this assembly by extending my remarks
-
- to other branches of science. In conclusion I will express a hope that when
-
- the time again comes round to receive the British Association in this town, its
-
- members wiU find the intei-val to have been as fruitful as the corresponding
-
- period on which we now look back. The tendency of progress is to quicken
-
- progress, because every acquisition in science is so much vantage ground for
-
- fresh attainment. We may expect, therefore, to increase our speed as we
-
- struggle forward ; but however high wo climb in the pursuit of knowledge we
-
- shall still see heights above us, and the more we extend our view, the more
-
- conscious we shall be of the immensity which Hes beyond.
+to other branches of science. In conclusion I will express a hope that when
+the time again comes round to receive the British Association in this town, its
+members will find the interval to have been as fruitful as the corresponding
+period on which we now look back. The tendency of progress is to quicken
+progress, because every acquisition in science is so much vantage ground for
+fresh attainment. We may expect, therefore, to increase our speed as we
+struggle forward; but however high we climb in the pursuit of knowledge we
+shall still see heights above us, and the more we extend our view, the more
+conscious we shall be of the immensity which lies beyond.
