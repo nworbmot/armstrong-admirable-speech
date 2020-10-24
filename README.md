@@ -6,13 +6,17 @@ In 1863 industrialist and inventor [William Armstrong](https://en.wikipedia.org/
 
 Charles Darwin called the speech [admirable](https://www.darwinproject.ac.uk/letter/DCP-LETT-4293.xml).
 
-The speech was given on to the 33rd meeting of the [British Association for the Advancement of Science](https://en.wikipedia.org/wiki/British_Science_Association), held at Newcastle-upon-Tyne.
+The speech was given on to the 33rd meeting of the [British Association for the Advancement of Science](https://en.wikipedia.org/wiki/British_Science_Association), held at Newcastle-upon-Tyne in August and September 1863.
 
 A scan of the original text of the speech from the Report of the 33rd Meeting of the British Association for the Advancement of Science, held at Newcastle-upon-Tyne, pages li-lxiv, is available on the [internet archive](https://archive.org/details/reportofbritisha64brit/page/n53/mode/2up).
 
 [14-page PDF of the scan](armstrong-speech-1863.pdf).
 
-The internet archive provides a text parsed from the scan using Optical Character Recognition (OCR). I have corrected the OCR mistakes in the text below. Text files are on [GitHub](https://github.com/nworbmot/armstrong-admirable-speech).
+The internet archive provides a text parsed from the scan using Optical Character Recognition (OCR). This is the file `armstrong-speech-1863.txt`.
+
+In this repository, I have corrected the OCR mistakes in the file `armstrong-speech-1863-corrected.txt`.
+
+There is an HTML version here: [William Armstrong's Admirable Speech](https://nworbmot.org/armstrong.html).
 
 A reanactment of the speech in 2013 in Newcastle was filmed and can be downloaded from [Vimeo](https://vimeo.com/75975295).
 
